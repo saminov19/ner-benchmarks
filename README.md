@@ -1,4 +1,6 @@
-#Часть личного репозитория для слияния
+# NER Benchmarks
+
+
 
 Data \ Entity type | Location | Person | Organization | Misc
 --- | --- |--- | --- | ---
