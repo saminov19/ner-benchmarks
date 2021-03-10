@@ -2,17 +2,14 @@
 
 
 
-Data \ Entity type | Location | Person | Organization | Misc | F-score
---- | --- |--- | --- | ---|
-**Stanford NER** | | | ||
-CONLL 2003 pre-trained | 90 | 95 | 86 | 80|
-SEC-Filings pre-trained | 40 | 29.7 | 26.1 | 4.3|
-SEC-Filings custom-trained | 39 | 90 | 25.2 | 0|
-**Spacy NER** | | | | |
-CONLL 2003 pre-trained |  |  |  | | 7.6 |
-CONLL 2003 custom-trained |  |  |  | | 81.6 |
- **HunFlair NER**|  **Disease**| | | |
-NCBI-Disease |87 | | | |
+Data \ Entity type | Location | Person | Organization | Misc |Disease
+--- | --- |--- | --- | ---
+**Stanford NER** | | | |
+CONLL 2003 pre-trained | 90 | 95 | 86 | 80
+SEC-Filings pre-trained | 40 | 29.7 | 26.1 | 4.3
+SEC-Filings custom-trained | 39 | 90 | 25.2 | 0
+ **HunFlair NER**|  | | |
+NCBI-Disease | | | | 87 |
 
 
 
