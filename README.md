@@ -8,8 +8,8 @@ Data \ Entity type | Location | Person | Organization | Misc | Disease
 CONLL 2003 pre-trained | 90 | 95 | 86 | 80 |
 SEC-Filings pre-trained | 40 | 29.7 | 26.1 | 4.3 |
 SEC-Filings custom-trained | 39 | 90 | 25.2 | 0 |
- **HunFlair NER**|  | | | |
-NCBI-Disease | | | | 87 |
+ **Flair NER**|  | | | |
+NCBI-Disease | | | |  | 87
 
 
 
