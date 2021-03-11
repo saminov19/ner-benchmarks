@@ -23,8 +23,8 @@ SEC-Filings pre-trained |  |  |  |  | |
 SEC-Filings custom-trained |  |  |  |  | |
 NCBI-Disease | | | |  |  |
  **Spacy NLP**|  | | | | |
-CONLL 2003 pre-trained |  |  |  |  | |
-CONLL 2003 custom-trained |  |  |  |  | |
+CONLL 2003 pre-trained |  |  |  |  | | 7.6
+CONLL 2003 custom-trained |  |  |  |  | | 81.6
 SEC-Filings pre-trained |  |  |  |  | |
 SEC-Filings custom-trained |  |  |  |  | |
 NCBI-Disease | | | |  |  |
