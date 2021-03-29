@@ -12,10 +12,10 @@ SEC-Filings custom-trained | 39 | 90 | 25.2 | 0 | |
 NCBI-Disease | | | |  | |
  **Flair NER**|  | | | | |
 CONLL 2003 pre-trained |  |  |  |  | |
-CONLL 2003 custom-trained |  |  |  |  | |
+CONLL 2003 custom-trained | 92.7 | 95.9 | 88.6 | 83 | | 91.2
 SEC-Filings pre-trained |  |  |  |  | |
-SEC-Filings custom-trained |  |  |  |  | |
-NCBI-Disease | | | |  | 87 |
+SEC-Filings custom-trained | 58.4 | 95 | 50.9 | 44.4 | | 81.5
+NCBI-Disease | | | |  | 88.6 |
  **Allen NLP**|  | | | | |
 CONLL 2003 pre-trained |  |  |  |  | |
 CONLL 2003 custom-trained | 79 | 75 | 35 | 67 | |  65
