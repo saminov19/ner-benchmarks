@@ -2,7 +2,7 @@
 
 
 
-Data \ Entity type | Location | Person | Organization | Misc | Disease | Overall
+Data \ Entity type | Location | Person | Organization | Misc | Disease | Overall (micro)
 --- | --- |--- | --- | --- | --- | ---
 **Stanford NER** | | | | | |
 CONLL 2003 pre-trained | 90 | 95 | 86 | 80 | |
