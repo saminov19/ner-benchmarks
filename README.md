@@ -9,8 +9,7 @@ CONLL 2003 pre-trained | 90 | 95 | 86 | 80 | |
 CONLL 2003 custom-trained | 99 | 99 | 99 | 99 | |
 SEC-Filings pre-trained | 40 | 29.7 | 26.1 | 4.3 | |
 SEC-Filings custom-trained | 39 | 90 | 25.2 | 0 | |
-NCBI-Disease custom-trained | | | |  |  | 
-NCBI-Disease pre-trained | | | |  |  | 
+NCBI-Disease  | | | |  |  | 
  **Flair NER**|  | | | | |
 CONLL 2003 pre-trained |  |  |  |  | |
 CONLL 2003 custom-trained | 92.7 | 95.9 | 88.6 | 83 | | 91.2
@@ -22,8 +21,7 @@ CONLL 2003 pre-trained |  |  |  |  | |
 CONLL 2003 custom-trained | 82 | 92 | 74 | 69 | |  95
 SEC-Filings pre-trained |  |  |  |  | |
 SEC-Filings custom-trained | 56 | 59 | 61 | X | | 98
-NCBI-Disease custom-trained | | | |  | 83 | 97
-NCBI-Disease pre-trained | | | |  |  | 
+NCBI-Disease  | | | |  | 83 | 97
  **Spacy NLP**|  | | | | |
 CONLL 2003 pre-trained |  |  |  |  | | 7.6
 CONLL 2003 custom-trained |  |  |  |  | | 81.6
