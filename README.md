@@ -18,10 +18,10 @@ SEC-Filings custom-trained | 58.4 | 95 | 50.9 | 44.4 | | 81.5
 NCBI-Disease | | | |  | 88.6 |
  **Allen NLP**|  | | | | |
 CONLL 2003 pre-trained |  |  |  |  | |
-CONLL 2003 custom-trained | 79 | 75 | 35 | 67 | |  65
+CONLL 2003 custom-trained | 82 | 92 | 74 | 69 | |  95
 SEC-Filings pre-trained |  |  |  |  | |
-SEC-Filings custom-trained |  |  |  |  | |
-NCBI-Disease | | | |  |  |
+SEC-Filings custom-trained | 56 | 59 | 61 |  | | 98
+NCBI-Disease custom-trained | | | |  | 83 | 97
  **Spacy NLP**|  | | | | |
 CONLL 2003 pre-trained |  |  |  |  | | 7.6
 CONLL 2003 custom-trained |  |  |  |  | | 81.6
