@@ -1,4 +1,4 @@
-trainFile = train.tsv
+trainFile = ../../../conll/conll2003/train.tsv
 serializeTo = conll_ner.ser.gz
 map = word=0,answer=1
 
