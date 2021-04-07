@@ -1,4 +1,4 @@
-trainFile = train.tsv
+trainFile = ../../../ncbi/train.tsv
 serializeTo = ../../../src/notebooks/Stanford NER/ncbi_ner.ser.gz
 map = word=0,answer=1
 
