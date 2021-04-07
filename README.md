@@ -5,7 +5,7 @@
 Data \ Entity type | Location | Person | Organization | Misc | Disease | Overall (micro)
 --- | --- |--- | --- | --- | --- | ---
 **Stanford NER** | | | | | |
-CONLL 2003 pre-trained | 90 | 95 | 86 | 80 | |
+CONLL 2003 pre-trained | 90 | 95 | 86 | 80 | | 98
 CONLL 2003 custom-trained | 86 | 91 | 82 | 76 | | 97
 SEC-Filings pre-trained | 40 | 29.7 | 26.1 | 4.3 | |
 SEC-Filings custom-trained | 39 | 90 | 25.2 | 0 | |
