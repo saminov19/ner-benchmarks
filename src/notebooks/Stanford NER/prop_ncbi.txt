@@ -1,5 +1,5 @@
 trainFile = train.tsv
-serializeTo = ../../../src/notebooks/ncbi_ner.ser.gz
+serializeTo = ../../../src/notebooks/Stanford NER/ncbi_ner.ser.gz
 map = word=0,answer=1
 
 useClassFeature=true
