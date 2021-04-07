@@ -1,5 +1,5 @@
 trainFile = ../../../conll/conll2003/train.tsv
-serializeTo = conll_ner.ser.gz
+serializeTo = ../../../src/notebooks/conll_ner.ser.gz
 map = word=0,answer=1
 
 useClassFeature=true
